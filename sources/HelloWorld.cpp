@@ -1,2 +1,8 @@
 #include using namespace std;
-int main() { cout << "Hello, World!"; return 0; } EOF
+int
+main()
+{
+  cout << "Hello, World!";
+  return 0;
+}
+EOF
